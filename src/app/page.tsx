@@ -43,3 +43,6 @@ const Home = async () => {
 };
 
 export default Home;
+
+// html markup structure
+// Header
