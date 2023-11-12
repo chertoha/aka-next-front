@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "requestedUrl": "hardware",
+    "sub": [
+      {
+        "id": "1",
+        "requestedUrl": "handwheels",
+        "img": "url"
+      },
+      {
+        "id": "2",
+        "requestedUrl": "levers",
+        "img": "url"
+      },
+      {
+        "id": "3",
+        "requestedUrl": "solid-locking-handwheels",
+        "img": "url"
+      },
+      {
+        "id": "4",
+        "requestedUrl": "locking-handwheels",
+        "img": "url"
+      },
+      {
+        "id": "5",
+        "requestedUrl": "knureled-handwheels",
+        "img": "url"
+      },
+      {
+        "id": "6",
+        "requestedUrl": "u-handles",
+        "img": "url"
+      },
+      {
+        "id": "7",
+        "requestedUrl": "feets",
+        "img": "url"
+      },
+      {
+        "id": "8",
+        "requestedUrl": "hinges",
+        "img": "url"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "requestedUrl": "conveyor-components"
+  },
+  {
+    "id": "3",
+    "requestedUrl": "position-indicators"
+  },
+  {
+    "id": "4",
+    "requestedUrl": "locks"
+  }
+]
