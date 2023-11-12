@@ -1,60 +1,63 @@
 [
   {
     "id": "1",
-    "requestedUrl": "hardware",
+    "title": "hardware",
     "sub": [
       {
         "id": "1",
-        "requestedUrl": "handwheels",
+        "title": "handwheels",
         "img": "url"
       },
       {
         "id": "2",
-        "requestedUrl": "levers",
+        "title": "levers",
         "img": "url"
       },
       {
         "id": "3",
-        "requestedUrl": "solid-locking-handwheels",
+        "title": "solid-locking-handwheels",
         "img": "url"
       },
       {
         "id": "4",
-        "requestedUrl": "locking-handwheels",
+        "title": "locking-handwheels",
         "img": "url"
       },
       {
         "id": "5",
-        "requestedUrl": "knureled-handwheels",
+        "title": "knureled-handwheels",
         "img": "url"
       },
       {
         "id": "6",
-        "requestedUrl": "u-handles",
+        "title": "u-handles",
         "img": "url"
       },
       {
         "id": "7",
-        "requestedUrl": "feets",
+        "title": "feets",
         "img": "url"
       },
       {
         "id": "8",
-        "requestedUrl": "hinges",
+        "title": "hinges",
         "img": "url"
       }
     ]
   },
   {
     "id": "2",
-    "requestedUrl": "conveyor-components"
+    "title": "conveyor-components",
+    "sub": []
   },
   {
     "id": "3",
-    "requestedUrl": "position-indicators"
+    "title": "position-indicators",
+    "sub": []
   },
   {
     "id": "4",
-    "requestedUrl": "locks"
+    "title": "locks",
+    "sub": []
   }
 ]
