@@ -25,11 +25,11 @@ const Home = async () => {
         {categories.map(({ id, sub, title }) => (
           <div key={id}>
             <h2>{title}</h2>
-            <Link href={title}>to cat - {title}</Link>
+            <Link href={`products/${title}`}>to cat - {title}</Link>
             <ul>
               {sub.map(({ id, title: subtitle, img }) => (
                 <li key={id}>
-                  <Link href={`${title}/${subtitle}`}>
+                  <Link href={`products/${title}/${subtitle}`}>
                     to sub - {subtitle}{" "}
                   </Link>
                 </li>
