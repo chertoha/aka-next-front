@@ -21,6 +21,10 @@ const Home = async () => {
   console.log(categories);
   return (
     <main>
+      <h1>Комплектуючі для машинобудування</h1>
+      <section>New Items</section>
+      <section>Product Catalog</section>
+      {/* ----------------------------------------------------- */}
       <ul>
         {categories.map(({ id, sub, title }) => (
           <div key={id}>
@@ -38,6 +42,7 @@ const Home = async () => {
           </div>
         ))}
       </ul>
+      {/* ----------------------------------------------------- */}
     </main>
   );
 };
