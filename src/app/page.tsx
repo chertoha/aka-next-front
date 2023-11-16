@@ -21,7 +21,7 @@ const Home = async () => {
   console.log(categories);
   return (
     <main>
-      <h1>Комплектуючі для машинобудування</h1>
+      <h1 hidden>Комплектуючі для машинобудування</h1>
       <section>New Items</section>
       <section>Product Catalog</section>
       {/* ----------------------------------------------------- */}

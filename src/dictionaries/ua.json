@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "products": "Продукція",
+    "contacts": "Контакти"
+  },
+
+  "breadcrumbs": {
+    "main": "Головна",
+    "cart": "Замовлення"
+  },
+
+  "header": {
+    "cart": "Замовлення"
+  },
+
+  "common": {
+    "mainHeading": "Комплектуючі для машинобудування"
+  },
+
+  "hero": {
+    "title": "Наші новинки на складі",
+    "stock": "Товарів на складі",
+    "years": "Років на ринку",
+    "customers": "Постійних клієнтів"
+  },
+
+  "buttons": {
+    "viewMore": "Відкрити ще",
+    "knowMore": "Дізнатись більше",
+    "backToMain": "Повернутись на головну",
+    "makeAnOrder": "Замовити",
+    "placeAnOrder": "Замовити"
+  },
+
+  "footer": {
+    "copyright": "Всі права захищені"
+  },
+
+  "product": {
+    "article": "Артикул"
+  },
+
+  "page404": {
+    "title": "Упссс...",
+    "text": "Сторінка не знайдена"
+  },
+
+  "cart": {
+    "order": "Замовлення",
+    "title": "Ваше замовлення",
+    "tab": {
+      "product": "Товар",
+      "quantity": "Кількість"
+    }
+  },
+
+  "contactForm": {
+    "namePlaceholder": "Ім'я",
+    "surnamePlaceholder": "Фамілія",
+    "telPlaceholder": "Номер телефона",
+    "emailPlaceholder": "Email",
+    "shipmentAddressPlaceholder": "Адреса доставки"
+  }
+}

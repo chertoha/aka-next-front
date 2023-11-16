@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "products": "Продукция",
+    "contacts": "Контакты"
+  },
+
+  "breadcrumbs": {
+    "main": "Главная",
+    "cart": "Заказы"
+  },
+
+  "header": {
+    "cart": "Заказы"
+  },
+
+  "common": {
+    "mainHeading": "Комплектующие для машиностроения"
+  },
+
+  "hero": {
+    "title": "Наши новинки на складе",
+    "stock": "Товаров на складе",
+    "years": "Лет на рынке",
+    "customers": "Постоянных клиентов"
+  },
+
+  "buttons": {
+    "viewMore": "Смотреть ещё",
+    "knowMore": "Узнать больше",
+    "backToMain": "Вернуться на главную",
+    "makeAnOrder": "Сделать заказ",
+    "placeAnOrder": "Оформить заказ"
+  },
+
+  "footer": {
+    "copyright": "Все права защищены"
+  },
+
+  "product": {
+    "article": "Артикул"
+  },
+
+  "page404": {
+    "title": "Упссс...",
+    "text": "Страница не найдена"
+  },
+
+  "cart": {
+    "order": "Заказ",
+    "title": "Ваш заказ",
+    "tab": {
+      "product": "Товар",
+      "quantity": "Количество"
+    }
+  },
+
+  "contactForm": {
+    "namePlaceholder": "Имя",
+    "surnamePlaceholder": "Фамилия",
+    "telPlaceholder": "Номер телефона",
+    "emailPlaceholder": "Email",
+    "shipmentAddressPlaceholder": "Адрес доставки"
+  }
+}
